@@ -1,13 +1,48 @@
-<h1 align="center">Hi 👋, I'm Mambaxd</h1>
-<h3 align="center">Full-stack developer · 3D artist · Game dev</h3>
-
-<br/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Developer;3D+Artist+%7C+Blender;Game+Dev+%7C+Unreal+Engine;Always+learning+new+things" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f4b99&height=220&section=header&text=Mambaxd&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;API+%26+System+Architect;Clean+Code+%7C+Performance+%7C+Scalability" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kesh-dev-eng&label=PROFILE+VIEWS&color=00bfff&style=for-the-badge" />
+</p>
+
+---
+
+## ⚡ ABOUT ME
+
+> Full-stack FiveM developer and 3D artist passionate about building immersive, scalable game systems. I design clean backend architectures, create custom scripts, and develop automation tools while also producing detailed 3D assets that bring virtual worlds to life.
+
+---
+
+## 🧠 TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,lua" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,nodejs,nginx" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git" />
+</p>
+
+
+## 🚀 FOCUS AREAS
+
+* API Development & Backend Systems
+* Full Stack Web Applications
+* Database Design & Optimization
+* Automation & Scripting
+
+---
+
+## 📊 GITHUB STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mambaxd&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -17,50 +52,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mambaxd&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mambaxd&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<br/>
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+## 🧬 DEVELOPER MINDSET
 
-<div align="center">
+```
+Build clean systems.
+Think scalable.
+Optimize everything.
+Keep it simple.
+```
 
-<table>
-  <tr>
-    <td align="center" width="80">AWS</td>
-    <td align="center" width="80">Blender</td>
-    <td align="center" width="80">Bootstrap</td>
-    <td align="center" width="80">CSS3</td>
-    <td align="center" width="80">Docker</td>
-    <td align="center" width="80">Git</td>
-    <td align="center" width="80">HTML5</td>
-  </tr>
-  <tr>
-    <td align="center" width="80">Illustrator</td>
-    <td align="center" width="80">JavaScript</td>
-    <td align="center" width="80">Linux</td>
-    <td align="center" width="80">MariaDB</td>
-    <td align="center" width="80">MySQL</td>
-    <td align="center" width="80">Nginx</td>
-    <td align="center" width="80">Node.js</td>
-  </tr>
-  <tr>
-    <td align="center" width="80">Photoshop</td>
-    <td align="center" width="80">PHP</td>
-    <td align="center" width="80">Python</td>
-    <td align="center" width="80">React</td>
-    <td align="center" width="80">React Native</td>
-    <td align="center" width="80">Tailwind</td>
-    <td align="center" width="80">Unreal</td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
+---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mambaxd&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4b99,100:0f0f0f&height=120&section=footer"/>
 </p>
